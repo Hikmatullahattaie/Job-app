@@ -46,7 +46,7 @@ const EditJobPage = ( {updateJobSubmit}) => {
 
     
   return (
-    <>
+  
     <section className="bg-indigo-50">
     <div className="container m-auto max-w-2xl py-24">
       <div
@@ -218,7 +218,7 @@ const EditJobPage = ( {updateJobSubmit}) => {
       </div>
     </div>
   </section>
-  </>
+  
   )
 };
 
